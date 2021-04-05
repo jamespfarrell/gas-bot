@@ -1,5 +1,5 @@
 {
-  "name": "gas-bot",
+  "name": "ping-gas",
   "version": "0.0.1",
   "description": "Gets the price of gas and notfies your of it reaching a price",
   "main": "index.js",
